@@ -1,3 +1,8 @@
 <resources>
     <string name="app_name">Business Card</string>
+    <string name="person_name">Andres Olguin</string>
+    <string name="person_title">Junior Mobile Developer</string>
+    <string name="social_network_link">https://www.linkedin.com/in/andres-eduardo-olguin-carbajal/</string>
+    <string name="email_address">andres.ed.olg.c@gmail.com</string>
+    <string name="phone_number">+52 56 1472 3636</string>
 </resources>
